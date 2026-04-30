@@ -1,4 +1,6 @@
-# Objetivo: Entender cómo usar vectores y matrices para construir un score de negocio
+# Objetivo: Entender cómo usar vectores 
+# y matrices para construir un score de negocio
+
 import numpy as np
 import pandas as pd
 
